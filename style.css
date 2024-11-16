@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: "Roboto","Arial",sans-serif;
+    background-color: black;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 30px;
+    padding-left: 20px;
+    margin-top: -20px;
+    color: white;
+}
+.image1{
+    width: 150px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+}
+.input1{
+    width: 30em;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    height: 40px;
+}
+.search{
+    border: 1px solid gray;
+    background-color: lightgray;
+    font-size: 30px;
+}
+.mic{
+    border: 1px solid gray;
+    background-color: lightgray;
+    font-size: 30px;
+}
+.mid a{
+    color: white;
+}
+.mid a:hover{
+    background-color: grey;
+    border-radius: 30px;
+}
+.right a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.right a:hover{
+    background-color: grey;
+    border-radius: 30px;
+}
+.left-sec{
+    border: 10px solid grey;
+    width: 200px;
+    height: 500px;
+    background-color: black;
+    margin-top: 25px;
+}
+.group1{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.icon1{
+    color: white;
+    font-size: 40px;
+}
+.head1{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.icon2{
+    color: white;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.head2{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.icon3{
+    color: white;
+    font-size: 40px;
+    margin-top: 40px;
+}
+.head3{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.hr1{
+    margin-top: 30px;
+}
+.icon4{
+    color: white;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.head4{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.icon5{
+    color: white;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: -150px;
+}
+.head5{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.hr2{
+    margin-top: 20px;
+}
+.image2{
+    margin-left: 300px;
+    margin-top: -800px;
+    width: 300px;
+    border-radius: 10px;
+}
+.head6{
+    color: white;
+    margin-left: 350px;
+    margin-top: 20px;
+    display: flex;
+    font-size: 30px;
+}
+.image3{
+    width: 300px;
+    margin-left: 300px;
+    margin-top: -900px;
+}
